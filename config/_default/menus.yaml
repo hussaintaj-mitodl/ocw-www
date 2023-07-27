@@ -1,0 +1,5 @@
+mainmenu:
+- identifier: 1e91823a-d18a-40e5-9ec7-8aac3c312488
+  name: page
+  pageRef: /promos/test-promo
+  weight: 10
