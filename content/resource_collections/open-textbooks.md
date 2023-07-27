@@ -1,13 +1,15 @@
 ---
 content_type: resource_collections
-description: ''
+description: A description of the Open Textbooks resource collection.
 draft: false
 resources:
   content:
-  - - 7a9dbe2f-bb7e-4883-908f-d8ec09466875
-    - ocw-www
-  - - 2e4e8495-237c-4b9b-a3c4-62453d0a6ade
-    - ocw-www
+  - - e77bc9dd-c7b3-40e2-82f8-db3b4951aecd
+    - courses/21a-461-what-is-capitalism-fall-2021
+  - - b633d008-765a-47b1-a24a-b034b53b4d25
+    - courses/34-test34-spring-2023
+  - - 76af335a-045e-49dd-8f76-141959c7c0a3
+    - courses/34-test34-spring-2023
   website: ocw-www
 title: Open Textbooks
 uid: 4db197d5-48c3-41bd-8262-d53f2cb723aa
