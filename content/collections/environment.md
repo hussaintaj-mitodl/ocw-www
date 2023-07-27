@@ -6,9 +6,10 @@ courselists:
   - 13c50662-0a7f-426a-a618-d80eda3ac6bf
   - 2b1bacf3-566f-43b5-bb90-5d099535fa62
   - 32f9031f-21eb-4887-a89e-95de23d8eb16
+  - 6d1bd1a8-7f02-455d-ba52-da7fa99981de
   website: ocw-www
 cover-image:
-  content: 7a9dbe2f-bb7e-4883-908f-d8ec09466875
+  content: a30b1157-d92a-4ded-9aa5-c72286accc8f
   website: ocw-www
 description: "Like so many of the big challenges taken on at MIT, environmental and\
   \ sustainability issues demand an interdisciplinary perspective.\n\nFrom declining\
