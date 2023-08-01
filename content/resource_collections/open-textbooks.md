@@ -14,6 +14,8 @@ resources:
     - courses/34-test34-spring-2023
   - - 2cfa4c51-cef8-4a54-9efe-e98c237cf841
     - courses/34-test34-spring-2023
+  - - 4d77494b-0858-430c-95e0-eb2a5634b848
+    - courses/34-test34-spring-2023
   website: ocw-www
 title: Open Textbooks
 uid: 4db197d5-48c3-41bd-8262-d53f2cb723aa
