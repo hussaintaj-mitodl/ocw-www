@@ -2,11 +2,12 @@
 content_type: course-collection
 courselists:
   content:
-  - f92bf6bd-def5-407d-822c-8f22480c44a6
   - 13c50662-0a7f-426a-a618-d80eda3ac6bf
   - 2b1bacf3-566f-43b5-bb90-5d099535fa62
   - 32f9031f-21eb-4887-a89e-95de23d8eb16
   - 6d1bd1a8-7f02-455d-ba52-da7fa99981de
+  - 2b404bc3-dd20-4e8c-b4c2-bc70f9d4a838
+  - 6cb0f708-5247-4d7d-b4cb-3ba6331a5862
   website: ocw-www
 cover-image:
   content: a30b1157-d92a-4ded-9aa5-c72286accc8f
@@ -33,7 +34,7 @@ description: "Like so many of the big challenges taken on at MIT, environmental 
   \ change, including brief Explainer articles on key topics and the award-winning\
   \ TILClimate podcast with educator guides."
 featured-courses:
-  content: 11bbca83-25b8-4ab4-bf6d-a93bc134b671
+  content: 8b182df2-d2f7-4ce4-8f61-5f85269631ad
   website: ocw-www
 title: Environment & Sustainability
 uid: 677e4855-ca00-42a4-9db8-7df1c6333dcc
