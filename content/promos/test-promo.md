@@ -2,7 +2,7 @@
 content_type: promos
 draft: false
 image:
-  content: 7a9dbe2f-bb7e-4883-908f-d8ec09466875
+  content: c4554c42-49c2-4570-965b-b8810839f906
   website: ocw-www
 link_title: Google
 link_url: https://www.google.com
