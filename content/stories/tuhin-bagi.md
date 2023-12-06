@@ -1,8 +1,7 @@
 ---
 content_type: stories
-draft: false
 image:
-  content: 86a9ee57-17a8-41d7-8fe2-deb34859641a
+  content: 6ecb8326-4c6d-4c7c-a5ce-2896ca354acd
   website: ocw-www
 leadquote: "In school there are times when I don\u2019t completely understand a topic\
   \ that my teacher is lecturing. After I go to OCW, I understand it properly."
