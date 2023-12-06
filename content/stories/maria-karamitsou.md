@@ -1,8 +1,8 @@
 ---
 content_type: stories
-draft: false
+draft: true
 image:
-  content: 7a9dbe2f-bb7e-4883-908f-d8ec09466875
+  content: d87cf5ea-7267-4b03-bd97-686ca140c100
   website: ocw-www
 leadquote: I found lecture notes, handouts and slides from presentations, and some
   problem sets. It helped me a lot.
