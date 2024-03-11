@@ -34,10 +34,11 @@ instructors:
   - 2016f8d5-1682-1bec-8853-20052a703968
   - 7e99c171-2da4-1fdc-a984-68ab5291d71d
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Instructor Insights
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.24-002
 term: Spring
 title: MIT-Haiti Initiative / Inisyativ MIT-Ayiti

@@ -3,20 +3,26 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: "This collection of three essays was developed from the author's\
-  \ experience teaching the course *Fluid Dynamics of the Atmosphere and Ocean*, offered\
-  \ to graduate students entering the [MIT/WHOI Joint Program in Oceanography](http://mit.whoi.edu/).\
-  \ The essays are:\n\n1. Lagrangian and Eulerian Representations of Fluid Flow: Kinematics\
-  \ and the Equations of Motion,\n2. Dimensional Analysis of Models and Data Sets:\
-  \ Similarity Solutions and Scaling Analysis, and\n3. A Coriolis Tutorial\n\nThe\
-  \ goal of this resource is to help each student master the concepts and mathematical\
-  \ tools that make up the foundation of classical and geophysical fluid dynamics.\
-  \ These essays treat these topics in considerably greater depth than a comprehensive\
-  \ fluids textbook can afford, and they are accompanied by data files (MATLAB\xAE\
-  \ and Fortan) that allows some application and experimentation. They should be suitable\
-  \ for self-study."
+course_description: "This resource presents a collection of essays developed from\
+  \ the author's experience teaching the course *Fluid Dynamics of the Atmosphere\
+  \ and Ocean*, offered to graduate students entering the [MIT/WHOI Joint Program\
+  \ in Oceanography](http://mit.whoi.edu/). The collection includes the following\
+  \ three essays:\n\n**Essay 1: Lagrangian and Eulerian Representations of Fluid Flow**\
+  \ (revised and expanded in 2024)\n\n- Part 1: Kinematics and the Equations of Motion\n\
+  - Part 2: Advection of Parcels and Fields\n\n**Essay 2: Dimensional Analysis of\
+  \ Models and Data Sets: Similarity Solutions and Scaling Analysis**\n\n**Essay 3:\
+  \ A Coriolis Tutorial** (revised and expanded in 2023)\n\n- Part 1: The Coriolis\
+  \ Force, Inertial and Geostrophic Motion\n- Part 2: A Rotating Shallow Water Model\
+  \ and Geostrophic Adjustment\n- Part 3: Beta Effects and Western Propagation\n-\
+  \ Part 4: Wind-Driven Ocean Circulation and the Sverdrup Relation\n- Part 5: On\
+  \ the Seasonally-Varying Circulation of the Arabian Sea\n\nThe goal of this resource\
+  \ is to help each student master the concepts and mathematical tools that make up\
+  \ the foundation of classical and geophysical fluid dynamics. These essays treat\
+  \ these topics in considerably greater depth than a comprehensive fluids textbook\
+  \ can afford, and they are accompanied by data files (MATLAB\xAE and Fortan) to\
+  \ allow some application and experimentation. They should be suitable for self-study."
 course_image:
-  content: b0e2eb56-9b9c-4985-8cfa-77789285c7dd
+  content: dde7f4b5-834c-4677-acfb-e2a116d18042
   website: topics-in-fluid-dynamics
 course_image_thumbnail:
   content: ''
@@ -24,7 +30,6 @@ course_image_thumbnail:
 course_title: Topics in Fluid Dynamics
 department_numbers:
 - '12'
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:

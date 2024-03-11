@@ -24,6 +24,7 @@ department_numbers:
 - STS
 - '11'
 extra_course_numbers: '11.151'
+hide_download: false
 instructors:
   content:
   - 55118bc3-68c2-d2de-fdb8-222e1f4e2fed
@@ -31,6 +32,7 @@ instructors:
 learning_resource_types:
 - Presentation Assignments
 - Activity Assignments
+- Instructor Insights
 legacy_uid: 67b1d074-37c2-6c85-881d-e1565a6e8d72
 level:
 - Undergraduate

@@ -3,9 +3,19 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: 'Chemistry Behind the Magic features videos of exciting live chemistry
-  demonstrations. The videos are enhanced by explanations of the science behind the
-  demonstration, in a fun and easy-to-understand format.
+course_description: '*Chemistry Behind the Magic* features videos of exciting live
+  chemistry demonstrations. The videos are enhanced by explanations of the science
+  behind the demonstration, in a fun and easy-to-understand format.
+
+
+  This set of videos showcases exciting live chemistry demonstrations held at MIT.
+  Through the magic of chemistry, Dr. John Dolhun and Dr. Bassam Shakhashiri create
+  things that steam, fizzle, and glow. Each video also provides a deeper look into
+  the chemistry that makes it all possible.
+
+
+  For teachers, we have provided supporting materials to help you understand and replicate
+  the experiments in your own classrooms. These videos can be watched in any order.
 
 
   **WARNING NOTICE**
@@ -26,13 +36,14 @@ course_image_thumbnail:
   website: chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom
 course_title: 'Chemistry Behind the Magic: Chemical Demonstrations for the Classroom'
 department_numbers:
+- '5'
 - RES
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:
   content:
   - ed99dc94-b13d-f3e1-77f3-03eefe50c60c
+  - c8948ed9-8606-4765-bb34-5964db8352bf
   website: ocw-www
 learning_resource_types:
 - Demonstration Videos

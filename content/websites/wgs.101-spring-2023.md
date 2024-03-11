@@ -3,17 +3,17 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: "This course offers an introduction to Women\u2019s and Gender\
-  \ Studies, an interdisciplinary academic field that explores critical questions\
+course_description: "This course offers an introduction to women\u2019s and gender\
+  \ studies, an interdisciplinary academic field that explores critical questions\
   \ about the meaning of gender in society. The primary goal of this course is to\
-  \ familiarize students with key issues, questions and debates in Women\u2019s and\
-  \ Gender Studies scholarship, both historical and contemporary. Gender scholarship\
+  \ familiarize students with key issues, questions, and debates in women\u2019s and\
+  \ gender studies scholarship, both historical and contemporary. Gender scholarship\
   \ critically analyzes themes of gendered performance and power in a range of social\
-  \ spheres, such as law, culture, work, education, medicine, social policy and the\
-  \ family and explores the intersection of gender, race, class and sexuality in individual\
-  \ lives and social institutions."
+  \ spheres, such as law, culture, work, education, medicine, social policy, and the\
+  \ family, and explores the intersection of gender, race, class, and sexuality in\
+  \ individual lives and social institutions."
 course_image:
-  content: 8cabae94-5717-4f8f-838a-7151a9fdaad0
+  content: d72b7883-e980-4867-96f8-0936a7dc1181
   website: introduction-to-womens-and-gender-studies
 course_image_thumbnail:
   content: ''
@@ -21,7 +21,6 @@ course_image_thumbnail:
 course_title: Introduction to Women's and Gender Studies
 department_numbers:
 - WGS
-draft: true
 extra_course_numbers: ''
 hide_download: false
 instructors:

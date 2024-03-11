@@ -35,8 +35,9 @@ instructors:
 learning_resource_types: []
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.11-003
+site_short_id: res.11-003-fall-2023
 term: Fall
 title: Climate Justice Instructional Toolkit
 topics:

@@ -25,6 +25,7 @@ course_title: Teaching with Sustainability
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 841f80fc-fcc2-41e2-a8d5-97fc50b3f189
@@ -32,9 +33,10 @@ instructors:
   website: ocw-www
 learning_resource_types:
 - Lecture Notes
+- Instructor Insights
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.ENV-006
 term: January IAP
 title: Teaching with Sustainability

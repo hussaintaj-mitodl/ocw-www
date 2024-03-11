@@ -30,6 +30,7 @@ course_title: Thermodynamics and Climate Change
 department_numbers:
 - '2'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 6cdfa32c-4122-4f9c-b2ff-b85adc9db9e7
@@ -37,6 +38,7 @@ instructors:
 learning_resource_types:
 - Online Textbook
 - Problem Sets with Solutions
+- Instructor Insights
 legacy_uid: ''
 level:
 - High School

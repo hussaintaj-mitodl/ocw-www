@@ -26,7 +26,7 @@ course_description: "In this course you will learn the basics of photography and
   \ for Materials Science and Engineering and the following departments: Chemical\
   \ Engineering, Materials Science and Engineering and Mechanical Engineering.\n"
 course_image:
-  content: ab45021d-e5b9-0f35-882a-fcbcfebaf303
+  content: 8f7e55b7-8eb1-4b59-b694-492795221eee
   website: res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 course_image_thumbnail:
   content: 7fc668c8-9e8a-8303-950a-4c5a4293bfbd
@@ -36,6 +36,7 @@ course_title: 'Making Science and Engineering Pictures: A Practical Guide to Pre
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e8488e88-2b26-4db5-e49f-5f59e402d924

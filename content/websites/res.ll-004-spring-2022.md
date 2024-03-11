@@ -37,7 +37,7 @@ learning_resource_types:
 - Videos
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.LL-004
 term: Spring
 title: 'LL EduCATE: Introduction to Engineering Concepts'

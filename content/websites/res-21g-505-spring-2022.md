@@ -18,6 +18,7 @@ department_numbers:
 - RES
 - 21G
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - a5691d44-4ed0-67fc-77c2-ba2830da98b3
@@ -25,6 +26,7 @@ instructors:
   website: ocw-www
 learning_resource_types:
 - Lecture Videos
+- Instructor Insights
 legacy_uid: ''
 level:
 - Undergraduate
