@@ -40,7 +40,7 @@ learning_resource_types:
 legacy_uid: ''
 level:
 - Undergraduate
-primary_course_number: RES-1-001
+primary_course_number: RES.1-001
 term: Fall
 title: 'Project Evaluation: Essays and Case Studies'
 topics:

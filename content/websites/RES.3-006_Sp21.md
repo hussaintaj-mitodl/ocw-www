@@ -17,6 +17,7 @@ course_title: MICRO Mentoring Resources and Materials Science Curriculum
 department_numbers:
 - '3'
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 0df6e172-f209-4766-86af-40437bbea966
@@ -26,6 +27,7 @@ instructors:
 learning_resource_types:
 - Written Assignments with Examples
 - Activity Assignments
+- Instructor Insights
 legacy_uid: ''
 level:
 - Undergraduate

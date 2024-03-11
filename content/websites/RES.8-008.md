@@ -22,10 +22,11 @@ instructors:
   content:
   - e644ca69-12cf-42db-a499-5e3970aed2b7
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Instructor Insights
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.8-008
 term: Spring
 title: Nuclear Weapons Education Project

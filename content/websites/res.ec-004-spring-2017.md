@@ -26,7 +26,6 @@ course_title: Energy Needs Assessment Toolkit
 department_numbers:
 - EC
 - RES
-draft: true
 extra_course_numbers: ''
 hide_download: true
 instructors:

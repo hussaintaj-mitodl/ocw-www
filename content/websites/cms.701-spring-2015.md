@@ -25,6 +25,7 @@ course_title: Current Debates in Media
 department_numbers:
 - CMS-W
 extra_course_numbers: CMS.901
+hide_download: false
 instructors:
   content:
   - 4a0c7e4c-ff11-1eda-e218-275de0726b05
@@ -34,6 +35,7 @@ learning_resource_types:
 - Lecture Notes
 - Presentation Assignments
 - Written Assignments
+- Instructor Insights
 legacy_uid: 128fbd8e-13ed-a38a-650a-a907c07d56af
 level:
 - Undergraduate

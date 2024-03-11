@@ -20,6 +20,7 @@ course_title: Gender, Power, Leadership and the Workplace
 department_numbers:
 - WGS
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 6a28e8ad-ebb8-672f-483a-947acf326a35
@@ -27,7 +28,6 @@ instructors:
 learning_resource_types:
 - Presentation Assignments
 - Written Assignments
-- Instructor Insights
 legacy_uid: f5ecea8a-effa-1c27-d8e2-d0c0fe6a1fe2
 level:
 - Undergraduate

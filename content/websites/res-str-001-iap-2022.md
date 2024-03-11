@@ -16,6 +16,7 @@ course_title: Geographic Information System (GIS) Tutorial
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - e2ea1694-9976-d7b8-7686-38b299860a05
@@ -23,9 +24,10 @@ instructors:
 learning_resource_types:
 - Activity Assignments
 - Lecture Notes
+- Instructor Insights
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.STR-001
 term: January IAP
 title: Geographic Information System (GIS) Tutorial

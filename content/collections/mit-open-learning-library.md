@@ -5,7 +5,7 @@ courselists:
   - 44c3f9fd-6d57-4e31-8b94-c9160b3186e4
   website: ocw-www
 cover-image:
-  content: b322e3c6-f56f-4be6-bd74-56b8adcd908e
+  content: ''
   website: ocw-www
 description: "The MIT Open Learning Library is home to selected educational content\
   \ from MIT OpenCourseWare and [MITx courses](https://www.edx.org/school/mitx), available\

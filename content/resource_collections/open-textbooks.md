@@ -1,6 +1,7 @@
 ---
 content_type: resource_collections
 description: ''
+draft: false
 resources:
   content: []
   website: ocw-www

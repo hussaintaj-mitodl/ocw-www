@@ -20,6 +20,7 @@ course_title: Introduction to Game Design Methods
 department_numbers:
 - CMS-W
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - d32163ca-b8a1-1bfb-35a9-fa64356c0206
@@ -28,6 +29,7 @@ instructors:
 learning_resource_types:
 - Design Assignments with Examples
 - Written Assignments with Examples
+- Instructor Insights
 legacy_uid: 7644e442-c982-7916-6b02-fcbbe0822971
 level:
 - Undergraduate

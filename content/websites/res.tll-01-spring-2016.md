@@ -24,11 +24,13 @@ course_title: Guidelines for Teaching @ MIT and Beyond
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 1c45cbdc-4ade-c529-3c1b-a451c8117021
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Instructor Insights
 legacy_uid: 2b117b39-55a6-784a-1f25-4f956c15cf43
 level:
 - Undergraduate

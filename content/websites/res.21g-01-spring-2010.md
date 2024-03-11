@@ -4,18 +4,17 @@ _build:
   render: false
 content_type: website
 course_description: "Learning hiragana and katakana is an important part of reading\
-  \ and speaking Japanese. The following pages contain:\n\n[Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index)\_\
-  - stroke order [videos](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index#characters),\
+  \ and speaking Japanese. The following pages contain:\n\n[Hiragana](/courses/res-21g-01-kana-spring-2010/pages/hiragana)\_\
+  - stroke order [videos](/courses/res-21g-01-kana-spring-2010/pages/hiragana#characters),\
   \ pronunciation, and vocabulary for each character; reading and listening [audio\
-  \ exercises](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index#exercises);\
-  \ [handouts](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index#handouts)\
-  \ on how to construct words and sentences; interactive [quizzes](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index#quizzes)\
-  \ testing character recognition; and printable [worksheets](/courses/res-21g-01-kana-spring-2010/pages/hiragana/_index#worksheets)\
-  \ to practice writing characters.\n\n[Katakana](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index)\_\
-  - pronunciation and vocabulary for each [character](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index#characters);\
-  \ reading and listening [audio exercises](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index#exercises);\
-  \ interactive [quizzes](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index#quizzes)\
-  \ testing character and vocabulary recognition; and printable [worksheets](/courses/res-21g-01-kana-spring-2010/pages/katakana/_index#worksheets)\
+  \ exercises](/courses/res-21g-01-kana-spring-2010/pages/hiragana#exercises); [handouts](/courses/res-21g-01-kana-spring-2010/pages/hiragana#handouts)\
+  \ on how to construct words and sentences; interactive [quizzes](/courses/res-21g-01-kana-spring-2010/pages/hiragana#quizzes)\
+  \ testing character recognition; and printable [worksheets](/courses/res-21g-01-kana-spring-2010/pages/hiragana#worksheets)\
+  \ to practice writing characters.\n\n[Katakana](/courses/res-21g-01-kana-spring-2010/pages/katakana)\_\
+  - pronunciation and vocabulary for each [character](/courses/res-21g-01-kana-spring-2010/pages/katakana#characters);\
+  \ reading and listening [audio exercises](/courses/res-21g-01-kana-spring-2010/pages/katakana#exercises);\
+  \ interactive [quizzes](/courses/res-21g-01-kana-spring-2010/pages/katakana#quizzes)\
+  \ testing character and vocabulary recognition; and printable [worksheets](/courses/res-21g-01-kana-spring-2010/pages/katakana#worksheets)\
   \ to practice writing characters.\n\nThese materials were developed as part of the\
   \ Japanese curriculum at MIT for students of all levels to learn and review. Students\
   \ and instructors are encouraged to incorporate them directly or as supplements\

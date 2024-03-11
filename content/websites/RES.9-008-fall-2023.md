@@ -3,29 +3,33 @@ _build:
   list: true
   render: false
 content_type: website
-course_description: "Seminar series led by graduate students and postdocs in the MIT\
-  \ Department of Brain and Cognitive Sciences (BCS) from 2015-present featuring tutorials\
-  \ on computational topics relevant to research on intelligence in neuroscience,\
-  \ cognitive science, and AI. Live tutorials include a lecture followed by office\
-  \ hours to work through problems and discuss how the material may be applied to\
-  \ participants\u2019 research.\_\n\nResources posted here include lecture videos\
-  \ created by CBMM, lecture slides, code and datasets for exercises, background references,\
-  \ and other supplementary material. These tutorials are aimed at graduate students\
-  \ and postdocs with some computational background, but who are not experts on these\
-  \ topics.\_\n\nThis series was organized by Emily Mackevicius and Jenelle Feather,\
-  \ with financial support from the MIT Department of Brain and Cognitive Sciences.\
-  \ Videos by Kris Brewer from the Center for Minds Brains and Machines."
+course_description: "This is a seminar series led by graduate students and postdocs\
+  \ in the MIT Department of Brain and Cognitive Sciences (BCS) from 2015 to the present,\
+  \ featuring tutorials on computational topics relevant to research on intelligence\
+  \ in neuroscience, cognitive science, and artificial intelligence. These tutorials\
+  \ are aimed at participants who have some computational background but are not experts\
+  \ on these topics.\n\nA computational tutorial can consist of any method, tool,\
+  \ or model that is broadly relevant within neuroscience, cognitive science, and\
+  \ artificial intelligence. The goal is to bring researchers in brain and cognitive\
+  \ sciences closer to the researchers creating computational methods.\_\n\nResources\
+  \ posted here include lecture videos, lecture slides, code and datasets for exercises,\
+  \ background references, and other supplementary material. Typically, each tutorial\
+  \ consists of a short lecture, and an interactive part with tutorials or \"office\
+  \ hours\" to work through practice problems and discuss how the material may be\
+  \ applied to participants\u2019 research.\_\n\nThis series was organized by Emily\
+  \ Mackevicius, Jenelle Feather, Nhat Le, Fernanda De La Torre Romo, and Greta Tuckute,\
+  \ with financial support from BCS. Videos were filmed, edited, and produced by Kris\
+  \ Brewer, Director of Technology at the Center for Brains, Minds, and Machines (CBMM)."
 course_image:
   content: dabd249d-2276-4b3d-a5c5-065d52138e3a
   website: bcs-computational-tutorials
 course_image_thumbnail:
   content: ''
   website: bcs-computational-tutorials
-course_title: Brain and Cognitive Sciences Computational Tutorials
+course_title: Brain and Cognitive Sciences Computational Tutorial Series
 department_numbers:
 - '9'
 - RES
-draft: true
 extra_course_numbers: ''
 hide_download: true
 instructors:
@@ -35,10 +39,11 @@ learning_resource_types:
 - Lecture Videos
 - Tutorial Videos
 legacy_uid: ''
-level: []
+level:
+- Non Credit
 primary_course_number: RES.9-008
 term: Fall
-title: Brain and Cognitive Sciences Computational Tutorials
+title: Brain and Cognitive Sciences Computational Tutorial Series
 topics:
 - - Mathematics
   - Computation

@@ -38,7 +38,7 @@ learning_resource_types:
 - Readings
 legacy_uid: ''
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.7-009
 term: Fall
 title: '7.InT: Inclusive Teaching Module'

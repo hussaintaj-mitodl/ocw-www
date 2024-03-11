@@ -9,6 +9,8 @@ courses:
   title: Mathematics for Computer Science
 - id: courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019
   title: 'Pre-7.01: Getting up to Speed in Biology'
+- id: courses/res-7-009-7-int-inclusive-teaching-module-fall-2022
+  title: '7.InT: Inclusive Teaching Module'
 - id: courses/8-02-physics-ii-electricity-and-magnetism-spring-2019
   title: 'Physics II: Electricity and Magnetism'
 - id: courses/8-370x-quantum-information-science-i-spring-2018

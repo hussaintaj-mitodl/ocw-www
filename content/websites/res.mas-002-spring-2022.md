@@ -26,14 +26,16 @@ course_title: Day of AI
 department_numbers:
 - RES
 extra_course_numbers: ''
+hide_download: false
 instructors:
   content:
   - 12212598-b448-e70b-1c32-5555dcf0248c
   website: ocw-www
-learning_resource_types: []
+learning_resource_types:
+- Instructor Insights
 legacy_uid: 6d4dd94c-6983-90ea-69d2-40f220d8a892
 level:
-- Non Credit
+- Non-Credit
 primary_course_number: RES.MAS-002
 term: Spring
 title: Day of AI
